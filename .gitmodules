@@ -1,0 +1,3 @@
+[submodule "custom-integration"]
+	path = custom-integration
+	url = https://github.com/moazmoshtha/custom-integration.git
