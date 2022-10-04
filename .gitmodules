@@ -4,3 +4,6 @@
 [submodule "custom-board"]
 	path = custom-board
 	url = https://github.com/moazmoshtha/custom-board.git
+[submodule "custom-item-view"]
+	path = custom-item-view
+	url = https://github.com/moazmoshtha/custom-item-view.git
