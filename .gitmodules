@@ -1,3 +1,6 @@
 [submodule "custom-integration"]
 	path = custom-integration
 	url = https://github.com/moazmoshtha/custom-integration.git
+[submodule "custom-board"]
+	path = custom-board
+	url = https://github.com/moazmoshtha/custom-board.git
