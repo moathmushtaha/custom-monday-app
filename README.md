@@ -3,13 +3,16 @@ Small Monday.com app to display board item information and update the item detai
 
 ## Content
  #### [Custom Integration](https://github.com/moazmoshtha/custom-integration)
+-  Created with Nodejs - Express.js - MongoDB - Mongoose - Graphql.
 -  Listen on item column changes then update it or store -if not exists- in MongoDB.
 -  Getting data from Monday.com using custom item mapping. 
 
  #### [Custom Item View](https://github.com/moazmoshtha/custom-item-view.git)
+ -  Created with React.js - Bootstrap.
  -  Show item details from Monday.com Borads and edit it.
  
  #### [Custom Board](https://github.com/moazmoshtha/custom-board) 
+ -  Created with React - Bootstrap - ka-table.
  -  Show items details (name - status - description) in table.
  
  
